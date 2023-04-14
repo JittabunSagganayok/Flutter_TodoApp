@@ -1,4 +1,5 @@
-// import 'dart:ffi';
+// 4. Provider คือ สร้างความสามารถในการกระทำกับ database Opendb,fetch,insert,update,delete (CRUD)
+// db ใช้ package sqflite
 
 import 'package:flutter_application_p/Todoitem.dart';
 import 'package:path/path.dart';
