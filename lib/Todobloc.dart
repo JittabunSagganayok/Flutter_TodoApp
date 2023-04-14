@@ -1,3 +1,4 @@
+//5. bloc ต้องการ state และ event โดยหน้านี้ bloc จะทำการผูกคำสั่งของ event กับ คำสั่งของ provider
 import 'package:bloc/bloc.dart';
 import 'package:flutter_application_p/TodoEvent.dart';
 import 'package:flutter_application_p/TodoProvider.dart';
