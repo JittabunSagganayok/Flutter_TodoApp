@@ -1,3 +1,6 @@
+//2.bloc ต้องการ state และ event
+//สร้าง class สำหรับ state 1.initstate 2.liststate
+
 import 'package:flutter_application_p/Todoitem.dart';
 
 abstract class TodoState {
