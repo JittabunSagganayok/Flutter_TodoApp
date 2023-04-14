@@ -1,3 +1,4 @@
+//1. สร้าง class ข้อมูล item ประกาศตัวแปรว่าจะเก็บอะไรบ้าง ทำ frommap และ tomap
 class TodoItem {
   final String id;
   final String title;
